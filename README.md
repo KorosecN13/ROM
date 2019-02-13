@@ -24,4 +24,4 @@ V skladu z navodili sem v projekt vključila naslednje elemente, ki si jih je za
  
  :white_check_mark: delo s seznami
  
- :white_check_mark: pregledna in lična predstavitev problema (v duhu seminarske, v kateri lepo opišemo in razložimo problem ter potek reševanja, rezultate pa pregledno in na čim bolj zanimiv način prikažemo)
+ :white_check_mark: pregledna in lična predstavitev problema (v duhu seminarske, v kateri lepo opišemo in razložimo problem ter potek reševanja, rezultate pa pregledno in na čim bolj zanimiv način prikažemo).
